@@ -1,0 +1,14 @@
+.Buttons {
+  background-color: black;
+  border-radius: 50%;
+  color: white;
+  height: 50px;
+  width: 50px;
+}
+
+.Cards {
+  background-color: blue;
+  height: 50px;
+  width: 80%;
+  color: white;
+}
